@@ -102,6 +102,7 @@ You will also need an API key for the Translator service from Azure.
 - **Python 3.8+**
 - **Flask** - Lightweight WSGI web application framework
 - **Azure Cognitive Services' Translator API** - Real-time translation service
+MADE BY KAVYANSH UPADHYAY
 
 ---
 
