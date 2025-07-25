@@ -10,6 +10,7 @@ if defined _OLD_CODEPAGE (
 
 set VIRTUAL_ENV=F:\Programming\Translator_App\venv
 
+
 if not defined PROMPT set PROMPT=$P$G
 
 if defined _OLD_VIRTUAL_PROMPT set PROMPT=%_OLD_VIRTUAL_PROMPT%
